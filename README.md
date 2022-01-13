@@ -1,6 +1,4 @@
-# OBJKTIV
-🌮 Tezos 🌮 NFT Viewer - Alpha
-
+# OBJKTIV: 🌮 Tezos 🌮 NFT Viewer
 ⚠️ Heads Up! This is an early release, alpha version. As such, this dApp is not fully bug tested. ⚠️
 
 ## About
