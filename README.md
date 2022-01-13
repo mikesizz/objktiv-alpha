@@ -21,7 +21,7 @@ Your security is always in your hands alone. Do not trust anything on the intern
 ### How can I report bugs/issues?
 Please report any OBJKTIV related issues using the Google form below.
 
-https://forms.gle/qb99XiCbvHgqseds6
+https://forms.gle/N6KVb1GbjdGn8u4f8
 
 ### How can I request features?
 Please provide any OBJKTIV feature requests using the Google form below.
