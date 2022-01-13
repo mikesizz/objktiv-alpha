@@ -924,6 +924,10 @@ body.night .previous-page-button {
 	display: none;
 }
 
+#objkt-title-space {
+	display: inline;
+}
+
 @media only screen and (max-width: 700px) {
 	#footer > p {
 		font-size: 1.15rem;
@@ -933,6 +937,9 @@ body.night .previous-page-button {
 		display: block;
 	}
 	
+	#objkt-title-space {
+		display: none;
+	}
 
 	#objkt-name {
 		margin-top: 11px;
