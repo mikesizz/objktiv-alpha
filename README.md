@@ -28,7 +28,7 @@ Please provide any OBJKTIV feature requests using the Google form below.
 
 https://forms.gle/FDZHQAe9K7sXpqxh8
 
-### Why do some images not load?
+### Why do some images/videos/resources not load?
 This application makes ZERO attempts at hiding the true nature/state of IPFS and its role in non-fungible tokens functionality. That being said, no CDNs will ever be used, and no special loading, parsing, or manipluation takes place while loading IPFS resources.
 
 If you are seeing missing images or slow load times this means your IPFS resource needs more pinning support or that the gateway you are using is under stress or suffering outages.
