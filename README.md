@@ -1,3 +1,8 @@
+# OBJKTIV
+🌮 Tezos 🌮 NFT Viewer - Alpha
+
+⚠️ Heads Up! This is an early release, alpha version. As such, this dApp is not fully bug tested. ⚠️
+
 ## About
 This is the results of a few nights of tinkering around for fun. The OBJKTIV dApp allows you to view hic et nunc and fxhash Tezos NFTs.
 
@@ -36,3 +41,7 @@ It's up to all of us to support artists by not only buying artwork but also supp
 A proper open source repository will shortly follow the publication of this alpha version.
 
 The code, in its current state, is not worthy of contribution and is, to say the least, sub standard. This was a silly side project that has taken on some small amount of life. As such, it will need a refactor post-alpha before pull requests are accepted.
+
+--
+
+Bye! 🤗
