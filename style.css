@@ -373,6 +373,7 @@ body.night #footer > p {
 }
 
 #title {
+	position: relative;
 	display: block;
 	width: 100%;
 	text-align: center;
@@ -396,7 +397,13 @@ body.night #title {
 	color: #333333;
 }
 
+#title:hover,
+#title-subheading:hover {
+	cursor: pointer;
+}
+
 #title-subheading {
+	position: relative;
 	text-align: center;
 }
 
