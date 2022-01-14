@@ -9,10 +9,10 @@ This dApp allows you to view Tezos based NFTs minted on the hic et nunc and fxha
 
 The alpha version includes wallet sync'ing, anonymous wallet viewing, gallery creation, popout objkt viewer w/ bg color selector, and day/night mode.
 
-All settings are persisted via local storage, so settings will not carry over between devices. Settings export will come shortly. Be warned that unsync'ing your wallet will wipe your settings. This will change in an upcoming release.
+All settings are persisted via local storage, so settings will not carry over between devices. Settings export will come shortly.
 
 ### Decentralization
-The goal is to stand OBJKTIV up as a fully decentralized application, though centralized indexers are used as a dependency in its current incarnation. With this in mind, most views, galleries, objkts, etc can be shared via URL. Ideally, everything that dictates your viewing experience should be encoded in the URL making it is 100% shareable.
+The goal is to stand OBJKTIV up as a fully decentralized application, though centralized indexers are used as a dependency in its current incarnation. With this in mind, most views, galleries, objkts, etc can be shared via URL. Ideally, everything that dictates your viewing experience will be encoded in the URL making it is 100% shareable.
 
 ## FAQ
 ### Is this application safe?
