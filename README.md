@@ -15,7 +15,7 @@ All settings are persisted via local storage, so settings will not carry over be
 The goal is to stand OBJKTIV up as a fully decentralized application, though centralized indexers are used as a dependency in its current incarnation. With this in mind, most views, galleries, objkts, etc can be shared via URL. Ideally, everything that dictates your viewing experience will be encoded in the URL making it is 100% shareable.
 
 ## FAQ
-### Why do some images/videos/resources not load?
+### Why do some images/videos/resources not load or load slow?
 This application makes ZERO attempts at hiding the true nature/state of IPFS and its role in non-fungible tokens functionality. That being said, no CDNs will ever be used, and no special loading, parsing, or manipluation takes place while loading IPFS resources.
 
 If you are seeing missing images or slow load times this means your IPFS resource needs more pinning support or that the gateway you are using is under stress or suffering outages.
