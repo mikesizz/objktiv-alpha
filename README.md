@@ -37,7 +37,19 @@ If you are seeing missing images or slow load times this means your IPFS resourc
 
 It is always recommended that if you appreciate an NFT, whether you own it or not, you should should pin it using a local IPFS node or at least a free tier plan with an IPFS node provider.
 
-It's up to all of us to support artists by not only buying artwork but also supporting the distributed hosting network that keeps it alive for you to enjoy!
+It's up to all of us to support the distributed hosting network that keeps our art alive for all to enjoy!
+
+#### What is an IPFS pinning service?
+I am not affiliated with pinata in any way. There are many IPFS pinning services. Educate yourself about their pricing and offerings.
+https://medium.com/pinata/what-is-an-ipfs-pinning-service-f6ed4cd7e475
+
+#### IPFS Desktop
+Run IPFS yourself. CLI options are also available.
+https://docs.ipfs.io/install/ipfs-desktop/
+
+#### IPFS Persistence
+More technical breakdown.
+https://docs.ipfs.io/concepts/persistence/
 
 ### How can I contribute?
 A proper open source repository will quickly follow the publication of this alpha version.
@@ -45,5 +57,4 @@ A proper open source repository will quickly follow the publication of this alph
 The code in its current state is not worthy of contribution and will need a refactor before pull requests are accepted.
 
 --
-
 Bye! 🤗
